@@ -40,5 +40,4 @@ public class RankingResource {
         return RankingResponse.getResponses(rankingDtos);
     }
 
-
 }
